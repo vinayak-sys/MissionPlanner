@@ -211,7 +211,7 @@ namespace MissionPlanner
                 return;
             }
 
-            name = "Mission Planner";
+            name = "Holdovers GCS";
 
             try
             {
